@@ -19,4 +19,5 @@ body{
 	height:30px;
 	background-color:#ffffff;
 	border-color:#008079;
+	cursor: pointer;
 }
