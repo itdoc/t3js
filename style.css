@@ -1,0 +1,22 @@
+/**
+*	disable text selection
+*/
+body{
+ -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
+}
+#board{
+	background-color:#339ecc;
+	border-collapse: collapse;
+}
+/**
+*	make td bocome square
+*/
+#board td{
+	width:30px;
+	height:30px;
+	background-color:#ffffff;
+	border-color:#008079;
+}
