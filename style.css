@@ -20,4 +20,9 @@ body{
 	background-color:#ffffff;
 	border-color:#008079;
 	cursor: pointer;
+	padding:0;
+}
+#board td div{
+	width:100%;
+	height:100%;
 }
